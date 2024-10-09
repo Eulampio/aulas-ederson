@@ -1,0 +1,5 @@
+idade = int(input("Digite sua idade"))
+if idade>=18: #caso verdade
+    print("mair de idade")
+else:#caso dolso
+    print("menor de idade")
