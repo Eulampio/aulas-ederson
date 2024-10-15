@@ -29,7 +29,7 @@ if digite==senha:
 
    
     elif opcao=="E" or opcao== "e":
-        print("seção encerrada")
+        print("seção encerrada Digit novasmente")
     
    
     else:
