@@ -1,4 +1,4 @@
-#sistema de banco wdwdwdqdwqwjkdhqjkwhdqhwdjk
+#sistema de banco wdwdwdqdwqwjkdhqjkwhdqhwdjkteste
 saldo= 10.0
 
 senha=1234 
@@ -8,7 +8,7 @@ if digite==senha:
     opcao=input("\ninforme qual opçao \nA se for Extrato\nB se for Deposito\nC se for Saque\nD Cadastro \nE se for sair\n Digite a Opçao: ")
     if opcao=="A" or opcao=="a":
         print("Seu saldo é de = ",saldo)
-   
+    
     elif opcao=="B" or opcao=="b":
         deposito=float(input("Informe o valor a ser depositado = "))
         saldo = deposito+saldo
