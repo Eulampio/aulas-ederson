@@ -17,6 +17,6 @@
 opcao=str(input("informe se e gasolina (a) ou alcool (b)"))
 if opcao== "a":
     l=float(input("informe a guantidade de litros"))
-elif l<=20:
-p=3
-valort=(p/100)*l
+elif opcao =="B" or "b":
+    
+
