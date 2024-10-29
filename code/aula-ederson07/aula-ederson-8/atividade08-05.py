@@ -3,7 +3,7 @@ a=5
 n=1
 n2=1
 n3=0
-
+print(0,end=" ")
 for i in range (0,a):
     if( i ==0 or i==1):
         print(1, end=" ")
