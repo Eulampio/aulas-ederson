@@ -2,6 +2,8 @@ cont=0
 while True:
     while True:
         x=int(input("1-camisa 38,00\n2-short 35,00\n3-meia 10,00\n4-cueca 15,00\n5-casaco 75,00\n0-finalizar\n"))
+        # if x>5 :
+        #     ("Opção invalida01")
         if x==1:
             y=int(input("dgt a quantidade"))
             cont=cont+38*y
