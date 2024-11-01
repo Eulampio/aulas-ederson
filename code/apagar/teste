@@ -1,7 +1,0 @@
-elif opcao=="D" or opcao== "d":
-        print("Seu nome xxxxx CPF XXXX FONE XXXX SEXO XXX1234")
-        nome= str(input("\nInforme o nome: "))
-        cpf =int(input("informe seu CPF: "))
-        fone = int(input("informe seu telefone: "))
-        sexo = str(input(("informe seu sexo: ")))
-        print("seu dados são Nome %s CPF %d Telefone %d Sexo %s"% (nome,cpf,fone,sexo))
