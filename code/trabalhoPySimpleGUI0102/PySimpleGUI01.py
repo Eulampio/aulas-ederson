@@ -12,4 +12,7 @@ while True:
    if event in (None, 'Exit'):
       break
 window.close()
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
