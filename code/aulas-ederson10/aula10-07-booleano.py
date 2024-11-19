@@ -4,7 +4,7 @@ def par(x):
     else:
         return False
 while True:
-    nun=int(input("inira um numero: "))
+    nun=int(input("isira um numero: "))
     if par(nun):
         print("É par:" ,nun)
     else:
