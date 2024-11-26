@@ -13,7 +13,7 @@ class Usuario(BaseModel):
     nome: str
     idade: int
     sexo: str
-usuario=Usuario(nome="joa",idade=54,sexo="indefinido")
+usuario=Usuario(nome="Leia moura",idade=101,sexo="indefinido")
 print(usuario.nome)
 print(usuario.idade)
 print(usuario.sexo)
